@@ -1,6 +1,6 @@
 # monero-miner
 
-1) Fork or Clone this Repository
+1) Fork or Clone this Repository 123
 
 2) Run "npm start"
 
